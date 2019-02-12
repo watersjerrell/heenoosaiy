@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iehubu.cnfeat.com/sitemap.xml
